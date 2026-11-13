@@ -159,7 +159,3 @@ car-price-predictor/
 - **Student Author:** Aryan Lakra (Roll No: `24118024`, IT Department, NIT Raipur).
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
